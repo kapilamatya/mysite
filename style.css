@@ -1,0 +1,118 @@
+/*Author: KAPIL*/
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.container{
+		width:100%;
+}
+
+.wrapper{
+	width:100%;
+	margin:auto;
+}
+.dark{
+	background-color:#31353d;
+	color:white;
+}
+.light{
+	background-color:#e9edf2;
+}
+#top_left
+{
+	display:inline-block;
+
+
+}
+#top_right{
+float:right;
+	
+}
+#top_div{
+	height:40px;
+	line-height:40px;
+}
+#logo_left{
+	width:50px;
+		display: inline-block;
+}
+#logo_right{
+	float:right;
+	margin-top: 230px;
+	margin-right: 85px;
+}
+#textstyle{
+	width:200px;
+	height:30px;
+	border-radius:8px;
+}
+#button{
+	background-color:green;
+	color:white;
+	padding: 7px;
+	border-radius: 7px;
+	border: 1px solid green;
+
+}
+#clear{
+	clear:both;
+}
+
+
+ul li{
+	
+	width: 266.5px;
+	display:inline-block;
+	height:35px;
+	line-height: 35px;
+	text-align: center;
+}
+ul li a{
+	color: white;
+	text-decoration: none;
+	font-size: 25px;
+	display: block;
+}
+ul li a:hover{
+	background-color: orange;
+	color:black;
+}
+
+#sliderimage img{
+	
+	width:82%;
+	border:1px solid grey;
+	padding:5px;
+	background-color:#eee;
+	margin-top:10px;
+	margin-left:200px;
+	box-shadow:5px 5px 10px grey ;
+	
+}
+#button:hover{
+	background-color: yellow;
+	color:black;
+	cursor:pointer;
+}
+
+.grad2 {
+    height: 30px;
+    background: red; /* For browsers that do not support gradients */
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); /* Standard syntax (must be last) */
+	color:white;
+	font-size: 20px;
+
+}
+#text_image{
+	width:150px;
+	margin:auto;
+	cursor:pointer;
+}
+#text_image2{
+	width:150px;
+	margin:auto;
+	cursor:pointer;
+}
+
+
